@@ -9,6 +9,8 @@ import Foundation
 
 public class HappyHour {
     
+    public init() {}
+    
     public func makeMeHappy() {
         print("Hey! Great.")
     }
