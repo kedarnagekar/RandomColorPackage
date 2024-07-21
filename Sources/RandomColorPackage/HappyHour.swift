@@ -13,7 +13,7 @@ public class HappyHour {
         print("Hey! Great.")
     }
     
-    func tellMeSomethingInteresting() {
+    public func tellMeSomethingInteresting() {
         print("India won world cup!")
     }
 }
